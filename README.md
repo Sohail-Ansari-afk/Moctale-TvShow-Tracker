@@ -9,6 +9,12 @@
 3. Enter `dns.google` and save.
 
 <p align="center">
+  <a href="./releases/moctale.apk">
+    <img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/screenshots/home.jpg" width="22%" alt="Home Screen" />
   <img src="./assets/screenshots/explore.jpg" width="22%" alt="Explore Screen" />
   <img src="./assets/screenshots/watchlist.jpg" width="22%" alt="Watchlist Screen" />
