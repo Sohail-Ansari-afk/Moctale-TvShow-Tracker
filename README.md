@@ -2,6 +2,12 @@
 
 **Moctale** is a premium, beautifully designed mobile application for discovering, tracking, and getting notified about your favorite Asian dramas and movies. Built with React Native, Expo, and Supabase.
 
+# ⚠️ IMPORTANT: DNS CONFIGURATION
+**For the app to fetch data correctly, you MUST set your phone's Private DNS to `dns.google` or use Google DNS.**
+1. Go to Settings > Network & Internet > Private DNS.
+2. Select "Private DNS provider hostname".
+3. Enter `dns.google` and save.
+
 <p align="center">
   <img src="./assets/screenshots/home.jpg" width="22%" alt="Home Screen" />
   <img src="./assets/screenshots/explore.jpg" width="22%" alt="Explore Screen" />
